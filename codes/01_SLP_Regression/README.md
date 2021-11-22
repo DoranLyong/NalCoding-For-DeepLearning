@@ -2,7 +2,8 @@
 
 ```Single Layer Perceptron(SLP)``` 구조의 신경망과 회귀 분석 후처리 기능을 이용하여 전복의 고리 개수 추정하기. 
 
-Running by [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NalCoding-For-DeepLearning/tree/main/codes/01_SLP_Regression/abalone_regression.ipynb)
+Running by [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DoranLyong/NalCoding-For-DeepLearning/blob/main/codes/01_SLP_Regression/abalone_regression.ipynb)
+
 
 
 ## 1.  Dataset 
